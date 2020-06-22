@@ -1,0 +1,77 @@
+
+.section-01{
+    background: url('https://sqimg.qq.com/qq_product_operations/im/pcqq/9.0/firstscreen_img/BG-1_1.jpg') no-repeat center bottom ;
+    background-size: 100% 100%;
+}
+
+.section-02{
+    background: url(https://sqimg.qq.com/qq_product_operations/im/pcqq/9.0/img/2-p.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.section-03{
+    background: url(https://sqimg.qq.com/qq_product_operations/im/pcqq/9.0/img/3-p.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.section-04{
+    background: url(https://sqimg.qq.com/qq_product_operations/im/pcqq/9.0/img/4-p.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+#header{
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: 15;
+}
+.wrap{
+    width: 85.42%;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+    z-index: 10;
+    max-width: 2186px;
+    min-width: 1166px;
+}
+.wrap>.logo{
+    float: left;
+    margin-top: 15px;
+    width: 134px;
+    height: 30px;
+    background: url('../image/logo.png') no-repeat;
+    background-size: 100% 100%;
+}
+.menu{
+    float: right;
+}
+.menu>li{
+    float: left;
+    line-height: 60px;
+    margin-right: 20px;
+}
+.img-login{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 32.2%;
+}
+.text-page01{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    width: 32.2%;
+}
+.img-o{
+    width: 338px;
+    height: 746px;
+    background: url('../image/1-aio.png');
+}
+.line{
+    position: absolute;
+    left: 36%;
+    top: 13%;
+    width: 2px;
+    height: 680px;
+    background: rgb(228, 219, 219);
+}
